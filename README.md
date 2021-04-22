@@ -6,4 +6,6 @@ This project aimed to create a simple interactive app to help younger individual
 
 Wireframe design : 
 
-https://github.com/Paris778/AstraZenecaProject/blob/main/Design/Main%20(1).png
+![Alt text](https://github.com/Paris778/AstraZenecaProject/blob/main/Design/Main%20(1).png "Title")
+
+
